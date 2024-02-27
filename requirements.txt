@@ -1,2 +1,5 @@
 streamlit
 sklearn
+scikit-learn
+json
+random

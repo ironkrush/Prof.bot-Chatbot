@@ -360,7 +360,7 @@
        "how many libraries"
     ],
     "responses": [
-       "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+       "There is one huge and spacious library.timings are 8am to 6pm and for more visit to managing office</a>"
     ],
     "context_set": ""
  },
@@ -408,7 +408,7 @@
        "What is there to eat?"
     ],
     "responses": [
-       "we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+       "we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Fix Thaali and many more on menu"
     ],
     "context_set": ""
  },
@@ -439,7 +439,7 @@
        "name of it hod"
     ],
     "responses": [
-       "All engineering departments have only one hod XYZ who available on (Place name)"
+       "All engineering departments have only one hod XYZ who available in their respective cabin"
     ],
     "context_set": ""
  },
@@ -452,7 +452,7 @@
        "name of computer hod"
     ],
     "responses": [
-       "All engineering departments have only one hod XYZ who available on (PLACE NAME)"
+       "All engineering departments have only one hod XYZ who available on 3rd floor oposite to mechanical lab"
     ],
     "context_set": ""
  },
@@ -758,15 +758,14 @@
     ],
     "context_set": ""
  },
-  {
-    "tag": "khana",
+ {
+    "tag": "girlfriend",
     "patterns": [
-       "khana kesa he",
-       "khana kaisa hota he",
-       "khana khate ho?"
+       "Are there girlfriends available?",
+       "Can i propose any girl"
     ],
     "responses": [
-       "Khana Achha Hota he pet bharke khao"
+       "No you can't you are here for studies"
     ],
     "context_set": ""
  }
