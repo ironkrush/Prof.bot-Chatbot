@@ -28,7 +28,7 @@ def ChatBot(input_message):
         
 
 
-st.title("Unibuddy")
+st.title("Prof.Bot")
 
 # Initialize chat history
 if "messages" not in st.session_state:
